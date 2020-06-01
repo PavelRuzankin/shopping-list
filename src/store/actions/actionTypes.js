@@ -1,0 +1,7 @@
+export const MAP_STATE = "MAP_STATE";
+export const STATE_PRE_LIST = "STATE_LIST";
+export const STATE_COMP_LIST = "STATE_COMP_LIST";
+export const RELOCATE_PRODUCT = "RELOCATE_PRODUCT";
+export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
+export const STATE_LISTS = "STATE_LISTS";
+export const RESTART_VALUES = "RESTART_VALUES";
